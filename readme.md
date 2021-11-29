@@ -1,11 +1,18 @@
 <h1 align="center">Entropy</h1>
 <p align="center">
-<a href="https://codeclimate.com/github/O-Asymmetricity-O/Cesium/maintainability"><img src="https://api.codeclimate.com/v1/badges/c87ee5ce2acb423b9396/maintainability" /></a>
-<a><img src="https://img.shields.io/github/license/O-Asymmetricity-O/cesium?color=blue"/></a>
-<a><img src ="https://img.shields.io/pypi/pyversions/tensorflow?color=green"/></a>
-<a><img src="https://img.shields.io/badge/version-0.1.0-blue"/></a>
-<a href="https://pypi.org/project/black"><img height="20" alt="Black badge" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+<!-- Code Climate -->
+<a href="https://codeclimate.com/github/asy-init/Entropy/maintainability">
+<img src="https://img.shields.io/codeclimate/maintainability/asy-init/Entropy?color=A3BE8C&logo=code%20climate&logoColor=white"/></a>
+<!-- License -->
+<a><img src="https://img.shields.io/github/license/asy-init/entropy?color=A3BE8C&logo=Open%20Access&logoColor=white&style=flat-square"/></a>
+<!-- Python Version -->
+<a><img src ="https://img.shields.io/pypi/pyversions/tensorflow?color=A3BE8C&logo=python&logoColor=white&style=flat-square"/></a>
+<!-- Project Version -->
+<a><img src="https://img.shields.io/badge/Version-1.0-A3BE8C?color=A3BE8C&logo=tensorflow&logoColor=white&style=flat-square"/></a>
+<!-- Code style:black -->
+<a><img height="20"  src="https://img.shields.io/badge/code%20style-black-000000.svg?color=A3BE8C&logo=pypi&logoColor=white&style=flat-square"></a>
 </p>
+
 <h4  align="center">"Personal python automation and maths word problem solver"</h4>
 
 <h4>&nbsp</h4>
@@ -17,9 +24,9 @@
 
   2. [Docs]()
 
-  3. [Setup](https://github.com/O-Asymmetricity-O/cesium#setup)
+  3. [Setup](https://github.com/asy-init/entropy#setup)
 
-  4. [License](https://github.com/O-Asymmetricity-O/cesium#license)
+  4. [License](https://github.com/asy-init/entropy#license)
 </details>
 <h4>&nbsp</h4>
 
@@ -43,37 +50,12 @@
     <summary markdown="span" ><u>Press to view</u></summary>
         <pre class="line-numbers">
             <code class="language-python">
-backports.entry-points-selectable==1.1.0
-black==21.10b0
-cfgv==3.3.1
-click==8.0.3
-colorama==0.4.4
-commonmark==0.9.1
-distlib==0.3.3
-filelock==3.3.2
-identify==2.3.4
-mypy-extensions==0.4.3
-nodeenv==1.6.0
-pathspec==0.9.0
-platformdirs==2.4.0
-pre-commit==2.15.0
-prompt-toolkit==1.0.14
-Pygments==2.10.0
-PyInquirer==1.0.3
-PyYAML==6.0
-regex==2021.11.2
-rich==10.13.0
-six==1.16.0
-toml==0.10.2
-tomli==1.2.2
-typing-extensions==3.10.0.2
-virtualenv==20.10.0
-wcwidth==0.2.5
-        </code>
-    </pre>
+none==0.0.0
+           </code>
+        </pre>
 </details>
 
-#
+
 
 ## Setup
 
@@ -81,7 +63,7 @@ wcwidth==0.2.5
 
 
 ```bash
-$ git clone https://github.com/O-Asymmetricity-O/Cesium.git .
+$ git clone https://github.com/asy-init/entropy.git .
 >>
 $ pip install -r requirements.txt
 >>
