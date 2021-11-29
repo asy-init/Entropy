@@ -1,4 +1,4 @@
-<h1 align="center">Cesium</h1>
+<h1 align="center">Entropy</h1>
 <p align="center">
 <a href="https://codeclimate.com/github/O-Asymmetricity-O/Cesium/maintainability"><img src="https://api.codeclimate.com/v1/badges/c87ee5ce2acb423b9396/maintainability" /></a>
 <a><img src="https://img.shields.io/github/license/O-Asymmetricity-O/cesium?color=blue"/></a>
@@ -6,7 +6,7 @@
 <a><img src="https://img.shields.io/badge/version-0.1.0-blue"/></a>
 <a href="https://pypi.org/project/black"><img height="20" alt="Black badge" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 </p>
-<h4  align="center">"Personal python automation and chatbot application written in python using standard ai and ml libraries,mainly to improve python skills"</h4>
+<h4  align="center">"Personal python automation and maths word problem solver"</h4>
 
 <h4>&nbsp</h4>
 
