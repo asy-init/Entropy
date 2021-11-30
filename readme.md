@@ -32,7 +32,7 @@
 
 ## Goals
 
-- [ ] Linear Regression
+- [x] Linear Regression
 
 - [ ] KNN
 
