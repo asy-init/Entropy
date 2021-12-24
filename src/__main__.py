@@ -16,6 +16,6 @@ knn_test = KNeighborsClassifier(n_neighbors=7)
 
 knn_test.fit(x1, y1)
 
-# result
+# resulta
 
 print(knn_test.predict(x2))
